@@ -1,0 +1,11 @@
+{
+    "name": "yammer_users",
+    "version": "0.0.1",
+    "dependencies": {
+        "csv-write-stream": "*",
+        "https-proxy-agent": "^2.2.1"
+    },
+    "scripts": {
+	"start": "node index.js"
+    }
+}
